@@ -8,7 +8,7 @@ Our goal with this project is to have a consolidated place for **incident respon
 
 These are collections of **individual queries** for specific use cases, not query packs which are a [separate thing](https://www.darkbytes.com/osquery-scheduled-queries-packs/) altogether.
 
-These queries are great for on-demand hunting across hundreds or thousands of systems via osquery [distributed queries](https://osquery.readthedocs.io/en/stable/deployment/remote/) using a frontend like [Kolide Fleet](https://github.com/kolide/fleet).
+These queries are great for on-demand hunting across hundreds or thousands of systems via osquery [distributed queries](https://osquery.readthedocs.io/en/stable/deployment/remote/) using a frontend like [Fleet](https://github.com/fleetdm/fleet).
 
 There are several other great projects that track example queries, be sure to check them out!
 
